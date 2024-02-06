@@ -3,7 +3,7 @@ this is a repo you can mess up and everything
 
 # heading 1
 
-See the table of contents by clicking on the three dashes by the title `ReadME.md`
+See the table of contents by clicking on the three dashes on the right side of the title `ReadME.md`
 
 ## subheading
 
